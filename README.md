@@ -8,4 +8,5 @@ Some useful websites I've gathered as I hone my python programming skills.
 # Python Meetups 
 * [Learn Python NYC](https://www.meetup.com/learn-python-nyc/): Great place to get face to face python help. Each time I go I feel like I'm able to level up my python skills. 
 
-# More coming soon
+# Recently Read and Interesting Posts [Last updated: 06/08/2017]
+* [Making Photos without Quality Loss](https://engineeringblog.yelp.com/2017/06/making-photos-smaller.html): A blogpost from Yelp's engineering team on how to effectively/efficiently shrink photos for the web using Pillow and other tools.
