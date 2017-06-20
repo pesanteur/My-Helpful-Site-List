@@ -8,6 +8,10 @@ Some useful websites I've gathered as I hone my programming skills.
 * [Practical Business Python](http://pbpython.com/): Python Scripts for business, also my starting point for plotting data with python
 * [Python Programming](https://pythonprogramming.net/): Best place for all your python questions
 
+# Learning Python
+* [Dive into Python](http://www.diveintopython3.net): Great place to refresh your python knowledge
+* [Automate the Boring Stuff](https://automatetheboringstuff.com): where I finally figured out how to make python useful
+
 # Python Meetups 
 * [Learn Python NYC](https://www.meetup.com/learn-python-nyc/): Great place to get face to face python help. Each time I go I feel like I'm able to level up my python skills. 
 
