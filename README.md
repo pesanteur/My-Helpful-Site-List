@@ -7,6 +7,7 @@ Some useful websites I've gathered as I hone my programming skills.
 * [Python 3 Module of the Week](https://pymotw.com/3/): Demonstrations of how to use modules of the standard python 3 library
 * [Practical Business Python](http://pbpython.com/): Python Scripts for business, also my starting point for plotting data with python
 * [Python Programming](https://pythonprogramming.net/): Best place for all your python questions
+* [Best Python Libraries](http://noeticforce.com/best-python-libraries): Ranking the top 20 Python libraries
 
 # Learning Python
 * [Dive into Python](http://www.diveintopython3.net): Great place to refresh your python knowledge
