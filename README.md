@@ -28,3 +28,4 @@ Some useful websites I've gathered as I hone my programming skills.
 # Recently Read and Interesting Posts [Last updated: 06/13/2017]
 * [Learn Anything](https://learn-anything.xyz/): Search interactive mind maps to learn everything.
 * [Making Photos without Quality Loss](https://engineeringblog.yelp.com/2017/06/making-photos-smaller.html): A blogpost from Yelp's engineering team on how to effectively/efficiently shrink photos for the web using Pillow and other tools.
+* [How to see all TODO comments in a Python package with VIM](https://stackoverflow.com/questions/29505942/how-to-see-all-todo-comments-under-a-python-package-in-vim): great way to use VIM to keep track of all those TODO comments I write in my code.
