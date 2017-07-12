@@ -12,6 +12,7 @@ Some useful websites I've gathered as I hone my programming skills.
 # Learning Python
 * [Dive into Python](http://www.diveintopython3.net): Great place to refresh your python knowledge
 * [Automate the Boring Stuff](https://automatetheboringstuff.com): where I finally figured out how to make python useful
+* [Making Databases with MySQL + Python](https://pythonprogramming.net/mysql-intro/): first step to take to master databases and python
 
 # Python Meetups 
 * [Learn Python NYC](https://www.meetup.com/learn-python-nyc/): Great place to get face to face python help. Each time I go I feel like I'm able to level up my python skills. 
